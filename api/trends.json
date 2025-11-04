@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T17:16:14.154680+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2025-11-04T18:14:55.024686+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时32分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时32分 ~ 18时14分]"
         },
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
@@ -90,8 +90,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时49分 ~ 17时16分]"
+          "appearance_count": 22,
+          "time_info": "[00时49分 ~ 18时14分]"
         },
         {
           "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
@@ -186,6 +186,17 @@
           "time_info": "[11时32分 ~ 13时43分]"
         },
         {
+          "title": "市场消息：欧盟领导人缺席拉丁美洲峰会以避免惹恼美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251104173742915800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "道富集团CEO批特朗普移民政策“反增长”",
           "url": "https://flash.jin10.com/detail/20251104132936642800",
           "source": "金十数据",
@@ -195,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
+          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 18时14分]"
         },
         {
           "title": "奥巴马抨击特朗普释放了什么信号",
@@ -236,17 +258,6 @@
           "time_info": "[06时38分 ~ 07时33分]"
         },
         {
-          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
-          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 17时16分]"
-        },
-        {
           "title": "美联储理事库克自特朗普起诉她以来首次公开讲话，称：还没有就12月降息与否做决定。 （在9月份和10月份都）支持FOMC降息，因为就业市场面临的风险超过通胀风险。 当前政策仍然具有适度的限制性。",
           "url": "https://wallstreetcn.com/livenews/2998722",
           "source": "华尔街见闻-快讯",
@@ -281,6 +292,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时32分 ~ 12时44分]"
+        },
+        {
+          "title": "特朗普对华政策的思路真改变了吗",
+          "url": "https://www.toutiao.com/trending/7568756885680033331/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 18时14分]"
+        },
+        {
+          "title": "中方回应特朗普威胁对尼日利亚动武",
+          "url": "https://www.toutiao.com/trending/7568256133530566719/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普：将要求我们的交通部长考虑取消纽约市拥堵收费。",
@@ -379,17 +414,6 @@
           "time_info": "[04时40分 ~ 05时31分]"
         },
         {
-          "title": "特朗普对华政策的思路真改变了吗",
-          "url": "https://www.toutiao.com/trending/7568756885680033331/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
-        },
-        {
           "title": "美联储理事库克：在法庭审理（美国总统特朗普政府所谓的抵押贷款）官司期间，对各方的支持表示由衷的感谢。 我不会谈论正在进行的庭审，那样做是不合适的。",
           "url": "https://wallstreetcn.com/livenews/2998727",
           "source": "华尔街见闻-快讯",
@@ -425,15 +449,15 @@
           "time_info": "[17时15分 ~ 17时16分]"
         },
         {
-          "title": "中方回应特朗普威胁对尼日利亚动武",
-          "url": "https://www.toutiao.com/trending/7568256133530566719/",
+          "title": "特朗普称对中国与其打压不如合作",
+          "url": "https://www.toutiao.com/trending/7568736208902324287/",
           "source": "今日头条",
           "ranks": [
-            25
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
@@ -505,7 +529,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -515,8 +539,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时32分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时32分 ~ 18时14分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -551,17 +575,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
-        },
-        {
-          "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
-          "url": "https://wallstreetcn.com/livenews/2999122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
@@ -647,6 +660,30 @@
           "time_info": "[05时31分 ~ 06时38分]"
         },
         {
+          "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
+          "url": "https://wallstreetcn.com/livenews/2999122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时14分]"
+        },
+        {
+          "title": "华尔街多位CEO警告 美股可能因估值偏高出现逾10%的回调",
+          "url": "https://wallstreetcn.com/livenews/2999103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时14分]"
+        },
+        {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.75%，道指期货跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/2999015",
           "source": "华尔街见闻-快讯",
@@ -659,15 +696,15 @@
           "time_info": "[14时55分 ~ 15时13分]"
         },
         {
-          "title": "华尔街多位CEO警告 美股可能因估值偏高出现逾10%的回调",
-          "url": "https://wallstreetcn.com/livenews/2999103",
-          "source": "华尔街见闻-快讯",
+          "title": "加密货币股票美股盘前下跌，Riot Platforms(RIOT.O)下跌4.6%，Hut 8跌4.5%，嘉楠科技(CAN.O)跌3.8%，Robinhood(HOOD.O)、Marathon Holdings(MARA.O)跌3.7%，Coinbase(COIN.O)跌3.3%。",
+          "url": "https://flash.jin10.com/detail/20251104172801861800",
+          "source": "金十数据",
           "ranks": [
-            15
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时16分"
+          "time_info": "18时14分"
         },
         {
           "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
@@ -703,6 +740,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "特斯拉(TSLA.O)美股盘前下跌2.2%。",
+          "url": "https://flash.jin10.com/detail/20251104171015435800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "美股高开低走，纳指科技指数收涨超0.2%，亚马逊创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/2998752",
           "source": "华尔街见闻-快讯",
@@ -712,6 +760,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "想与伊朗合作？哈梅内伊向美开出三大条件",
+          "url": "https://news.ifeng.com/c/8nzEMnom1YE",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 07时33分]"
+        },
+        {
+          "title": "伊朗革命卫队发言人：伊朗武装部队比十二日战争期间准备更加充分，将为敌人带来更沉重的打击。",
+          "url": "https://flash.jin10.com/detail/20251104173005406800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "哈梅内伊：伊朗近期不会考虑与美国合作",
+          "url": "https://wallstreetcn.com/livenews/2998713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 04时40分]"
+        },
+        {
+          "title": "据伊朗官方媒体：伊朗塞姆南省一家炼油厂发生火灾，造成至少1人死亡。",
+          "url": "https://flash.jin10.com/detail/20251104171544729800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     },
@@ -812,11 +911,12 @@
             9,
             7,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[05时31分 ~ 17时16分]"
+          "appearance_count": 16,
+          "time_info": "[05时31分 ~ 18时14分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -891,35 +991,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "想与伊朗合作？哈梅内伊向美开出三大条件",
-          "url": "https://news.ifeng.com/c/8nzEMnom1YE",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时33分]"
-        },
-        {
-          "title": "哈梅内伊：伊朗近期不会考虑与美国合作",
-          "url": "https://wallstreetcn.com/livenews/2998713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 04时40分]"
         }
       ]
     },
