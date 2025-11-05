@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T08:56:43.712770+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2025-11-05T10:30:06.400058+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -36,6 +36,28 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 10时30分]"
+        },
+        {
+          "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
+          "url": "https://news.ifeng.com/c/8o11vuaIumr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 10时30分]"
+        },
+        {
           "title": "美国总统特朗普：我很高兴提名贾里德·艾萨克曼为美国国家航空航天局的局长。",
           "url": "https://flash.jin10.com/detail/20251105064331425800",
           "source": "金十数据",
@@ -56,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
+          "url": "https://wallstreetcn.com/livenews/2999566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
         },
         {
           "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
@@ -189,6 +222,18 @@
           "time_info": "[03时11分 ~ 04时23分]"
         },
         {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时30分]"
+        },
+        {
           "title": "美国总统特朗普：（谈加州选区重划）违宪投票是一场巨大的骗局。所有邮寄选票正接受非常严肃的法律和刑事审查。",
           "url": "https://flash.jin10.com/detail/20251105002826068800",
           "source": "金十数据",
@@ -285,6 +330,17 @@
           "time_info": "[00时16分 ~ 01时10分]"
         },
         {
+          "title": "特朗普再次为援乌“战斧”踩刹车",
+          "url": "https://www.toutiao.com/trending/7568817691008437802/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 10时30分]"
+        },
+        {
           "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
           "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
           "source": "澎湃新闻",
@@ -321,15 +377,26 @@
           "time_info": "[04时23分 ~ 05时12分]"
         },
         {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
+          "title": "特朗普将于当地时间上午8:30在与共和党参议员的早餐会上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251105100328874800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
+          "title": "美国前财长批评特朗普滥用紧急权力征收关税",
+          "url": "https://flash.jin10.com/detail/20251105100305577800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时30分"
         },
         {
           "title": "美国总统特朗普：一旦政府结束关门事件，就会发放联邦食品救济项目“补充营养援助计划”（SNAP）。",
@@ -360,7 +427,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -412,7 +479,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -433,11 +500,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 10时30分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -446,20 +514,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "金十提示：美股和日韩股市暴跌前，高盛和摩根士丹利多个高管发出高达15%的回调空间警告。",
-          "url": "https://flash.jin10.com/detail/20251105085206088800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时30分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -470,8 +527,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 08时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 10时30分]"
+        },
+        {
+          "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
+          "url": "https://www.zhihu.com/question/1969182296755122552",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 10时30分]"
+        },
+        {
+          "title": "金十提示：美股和日韩股市暴跌前，高盛和摩根士丹利多个高管发出高达15%的回调空间警告。",
+          "url": "https://flash.jin10.com/detail/20251105085206088800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美股股指期货走低，纳指期货跌0.62%，标普500指数期货跌0.4%，道指期货微跌0.08%。",
@@ -480,7 +559,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -561,7 +640,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -577,13 +656,24 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美股大跌都怪Palantir？CNBC名嘴：华尔街的眼光太狭隘",
+          "url": "https://flash.jin10.com/detail/20251105095353867800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
+        },
+        {
           "title": "美股收盘：百度涨超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%853%25",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -683,6 +773,18 @@
           "time_info": "[04时23分 ~ 05时12分]"
         },
         {
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时30分]"
+        },
+        {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
           "url": "https://flash.jin10.com/detail/20251105011112408800",
           "source": "金十数据",
@@ -729,17 +831,68 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26cate%3D5001%26pos%3D22%26realpos%3D21%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D21%26filter_type%3Drealtimehot%26lcate%3D5001%26dgr%3D0%26c_type%3D31%26display_time%3D1762272431%26pre_seqid%3D17622724311670341041936&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 08时56分]"
         },
         {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
+          "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
+          "url": "https://flash.jin10.com/detail/20251105044443775800",
+          "source": "金十数据",
           "ranks": [
-            7
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
+          "url": "https://flash.jin10.com/detail/20251105101740650800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时30分"
+        },
+        {
+          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
+          "url": "https://wallstreetcn.com/livenews/2999422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968706446079299701",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
         }
       ]
     },
@@ -789,7 +942,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -807,60 +960,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26cate%3D5001%26pos%3D22%26realpos%3D21%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D21%26filter_type%3Drealtimehot%26lcate%3D5001%26dgr%3D0%26c_type%3D31%26display_time%3D1762272431%26pre_seqid%3D17622724311670341041936&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时56分]"
-        },
-        {
-          "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
-          "url": "https://flash.jin10.com/detail/20251105044443775800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
-          "url": "https://wallstreetcn.com/livenews/2999422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时12分]"
-        },
-        {
-          "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/1968706446079299701",
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
           "source": "知乎",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
+          "time_info": "[10时29分 ~ 10时30分]"
+        },
         {
           "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
           "url": "https://www.zhihu.com/question/1968690991750967598",
@@ -868,7 +981,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         }
