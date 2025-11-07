@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T14:20:24.993037+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2025-11-07T15:13:32.928687+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -58,11 +58,12 @@
           "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时27分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[10时27分 ~ 15时13分]"
         },
         {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
@@ -74,8 +75,22 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时27分 ~ 15时13分]"
+        },
+        {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            10,
+            16,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时27分 ~ 14时20分]"
+          "time_info": "[11时39分 ~ 15时13分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事",
@@ -125,19 +140,6 @@
           "time_info": "[11时39分 ~ 14时20分]"
         },
         {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 14时20分]"
-        },
-        {
           "title": "男子在特朗普身边晕倒 发布会中断",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E8%BE%B9%E6%99%95%E5%80%92+%E5%8F%91%E5%B8%83%E4%BC%9A%E4%B8%AD%E6%96%AD",
           "source": "百度热搜",
@@ -163,6 +165,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "特朗普称计划应莫迪邀请到访印度 访问时间可能定在明年",
+          "url": "https://wallstreetcn.com/livenews/3001040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "特朗普回应佩洛西退休：对美国是件大好事",
           "url": "https://wallstreetcn.com/livenews/3000884",
           "source": "华尔街见闻-快讯",
@@ -172,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "美国总统特朗普：中亚五国中的一些国家将加入《亚伯拉罕协议》。",
@@ -191,7 +215,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -402,6 +426,18 @@
           "time_info": "[05时22分 ~ 06时12分]"
         },
         {
+          "title": "特朗普痛骂佩洛西是“邪恶女人”",
+          "url": "https://www.toutiao.com/trending/7569040586016620587/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 15时13分]"
+        },
+        {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：当前的利率环境“几乎不存在限制性”。 并没有明显的证据表明，应该在2025年继续采取货币政策行动。 通胀是更加迫切的担忧。 预计2026年更快的经济增速将利好就业。 （由于总统特朗普政府关门影响到经济的缘故）预计失业率将在未来数月上升。",
           "url": "https://wallstreetcn.com/livenews/3000676",
           "source": "华尔街见闻-快讯",
@@ -462,6 +498,17 @@
           "time_info": "[02时19分 ~ 03时11分]"
         },
         {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "美国总统特朗普：礼来公司将在美国投资270亿美元，诺和诺德将投资100亿美元。",
           "url": "https://flash.jin10.com/detail/20251107011357287800",
           "source": "金十数据",
@@ -479,7 +526,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -649,17 +696,6 @@
           "time_info": "08时55分"
         },
         {
-          "title": "特朗普痛骂佩洛西是“邪恶女人”",
-          "url": "https://www.toutiao.com/trending/7569040586016620587/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "美国总统特朗普：印度总理莫迪很棒，他们已经基本停止购买俄罗斯石油。",
           "url": "https://flash.jin10.com/detail/20251107025935125800",
           "source": "金十数据",
@@ -726,6 +762,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "经贸大战背后 特朗普正在包围欧洲吗",
+          "url": "https://www.toutiao.com/trending/7569784878405783081/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "特朗普政府表示，美国COVE资本将与哈萨克斯坦国有矿业公司TAAU - KEN SAMRUK共同开发哈萨克斯坦的大型钨矿，项目的成本预计为11亿美元；美国进出口银行已发出意向函，拟提供9亿美元资金支持。",
           "url": "https://flash.jin10.com/detail/20251107041030974800",
           "source": "金十数据",
@@ -768,6 +815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "韩国官员：我们目前的设想是从美国获得核动力潜艇的燃料供应。韩国总统李在明告诉美国总统特朗普，韩国将在国内建造核潜艇。",
+          "url": "https://flash.jin10.com/detail/20251107144300306800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "美国联邦上诉法院为特朗普提供新机会，允其再次举证封口费刑事案应属联邦法院管辖。",
@@ -818,8 +876,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时12分 ~ 14时20分]"
+          "appearance_count": 11,
+          "time_info": "[06时12分 ~ 15时13分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -844,8 +902,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时55分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 15时13分]"
         },
         {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 特斯拉美股盘后涨1.8%。",
@@ -1031,8 +1089,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时12分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[07时12分 ~ 15时13分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1059,8 +1117,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时27分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[10时27分 ~ 15时13分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -1073,8 +1131,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时27分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[10时27分 ~ 15时13分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -1153,7 +1211,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1168,6 +1226,17 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 15时13分]"
+        },
+        {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
           "url": "https://wallstreetcn.com/articles/3758806",
           "source": "华尔街见闻",
@@ -1179,17 +1248,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 06时12分]"
-        },
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时55分 ~ 14时20分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -1236,6 +1294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "机构：预计10年期美债收益率将降至4%下方",
+          "url": "https://flash.jin10.com/detail/20251107144912951800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
@@ -1253,8 +1322,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时12分 ~ 14时20分]"
+          "appearance_count": 11,
+          "time_info": "[06时12分 ~ 15时13分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -1313,7 +1382,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
@@ -1330,11 +1399,12 @@
           "ranks": [
             6,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 14时20分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 15时13分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
