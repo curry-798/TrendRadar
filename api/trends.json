@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T19:12:43.468014+08:00",
-  "total_titles_processed": 1767,
+  "generated_at": "2025-11-07T20:23:53.625090+08:00",
+  "total_titles_processed": 1856,
   "failed_sources": [],
   "trends": [
     {
@@ -40,6 +40,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时27分 ~ 17时13分]"
+        },
+        {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 20时23分]"
         },
         {
           "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
@@ -82,18 +94,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 08时55分]"
-        },
-        {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 19时12分]"
         },
         {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
@@ -364,6 +364,17 @@
           "time_info": "[11时39分 ~ 12时16分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时23分]"
+        },
+        {
           "title": "尼日利亚财政部长Wale Edun宣布该国欧元债发行取得成功，投资者认购倍数超过五倍。 意味着投资者看淡美国总统特朗普近期发出的军事威胁，更关注该国的经济改革和政治稳定性。",
           "url": "https://wallstreetcn.com/livenews/3000650",
           "source": "华尔街见闻-快讯",
@@ -543,15 +554,16 @@
           "time_info": "[02时19分 ~ 03时11分]"
         },
         {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            20,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时23分]"
         },
         {
           "title": "美国总统特朗普：礼来公司将在美国投资270亿美元，诺和诺德将投资100亿美元。",
@@ -829,17 +841,6 @@
           "time_info": "15时13分"
         },
         {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
           "title": "特朗普称已与中俄领导人讨论无核化，外交部：中国核力量与美俄完全不在一个量级",
           "url": "https://wallstreetcn.com/livenews/3001047",
           "source": "华尔街见闻-快讯",
@@ -1094,7 +1095,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1201,7 +1202,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -1241,8 +1242,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时27分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[10时27分 ~ 20时23分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1332,6 +1333,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时12分]"
+        },
+        {
+          "title": "OpenAI CFO 表达希望美国政府对当前的 AI 算力基础设施投资提供担保，如何评价这一表述？",
+          "url": "https://www.zhihu.com/question/1970068977905525926",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
@@ -1347,8 +1359,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时55分 ~ 19时12分]"
+          "appearance_count": 14,
+          "time_info": "[08时55分 ~ 20时23分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1449,8 +1461,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时12分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[06时12分 ~ 20时23分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -1595,6 +1607,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗总统佩泽希齐扬：德黑兰不会放弃其核计划或“防御性导弹计划”。",
+          "url": "https://flash.jin10.com/detail/20251107193912198800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：德黑兰愿意就其核计划举行会谈，但导弹计划不在谈判桌上。",
+          "url": "https://flash.jin10.com/detail/20251107193903440800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：伊朗寻求和平，但不会屈服于胁迫。",
+          "url": "https://flash.jin10.com/detail/20251107193854426800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
