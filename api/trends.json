@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T18:14:42.145579+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2025-11-07T19:12:43.468014+08:00",
+  "total_titles_processed": 1767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 81,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -64,11 +64,12 @@
             23,
             18,
             24,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时39分 ~ 18时14分]"
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 19时12分]"
         },
         {
           "title": "特朗普重申不会出席G20峰会",
@@ -83,6 +84,18 @@
           "time_info": "[00时17分 ~ 08时55分]"
         },
         {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 19时12分]"
+        },
+        {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
           "url": "https://www.cls.cn/detail/2193664",
           "source": "财联社热门",
@@ -95,18 +108,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时27分 ~ 16时17分]"
-        },
-        {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 18时14分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事",
@@ -192,6 +193,19 @@
           "time_info": "10时27分"
         },
         {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 19时12分]"
+        },
+        {
           "title": "美国总统特朗普：中亚五国中的一些国家将加入《亚伯拉罕协议》。",
           "url": "https://flash.jin10.com/detail/20251107083221263800",
           "source": "金十数据",
@@ -237,18 +251,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 03时11分]"
-        },
-        {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普：感谢礼来与诺和诺德与美国达成药品价格协议。 两家公司的GLP-1s减肥药将在TrumpRX网站上架销售。 Zepbound和Wegovy价格将下调，医疗保险和医疗补助将涵盖这些减肥药物。 两家公司将在美国新建工厂。 礼来将在美国投资270亿美元，诺和诺德将投资100亿美元。 许多应用广泛的药品将实施60%的折扣。 美国民众应该支付全球最低的药价。 其他国家对美国医药定价协议感到不满。",
@@ -541,6 +543,17 @@
           "time_info": "[02时19分 ~ 03时11分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "美国总统特朗普：礼来公司将在美国投资270亿美元，诺和诺德将投资100亿美元。",
           "url": "https://flash.jin10.com/detail/20251107011357287800",
           "source": "金十数据",
@@ -734,7 +747,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -816,6 +829,17 @@
           "time_info": "15时13分"
         },
         {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "特朗普称已与中俄领导人讨论无核化，外交部：中国核力量与美俄完全不在一个量级",
           "url": "https://wallstreetcn.com/livenews/3001047",
           "source": "华尔街见闻-快讯",
@@ -844,7 +868,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -929,7 +953,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
@@ -1062,6 +1086,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "花旗集团：将小马智行(PONY.O)美股目标价从29.0美元下调至24.5美元。",
+          "url": "https://flash.jin10.com/detail/20251107180537622800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "英特尔(INTC.O)美股盘后涨2.5%。",
@@ -1206,8 +1241,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时27分 ~ 18时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时27分 ~ 19时12分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1312,8 +1347,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时55分 ~ 18时14分]"
+          "appearance_count": 13,
+          "time_info": "[08时55分 ~ 19时12分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1414,8 +1449,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时12分 ~ 18时14分]"
+          "appearance_count": 15,
+          "time_info": "[06时12分 ~ 19时12分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
