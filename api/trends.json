@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T16:17:15.126562+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2025-11-11T17:14:01.460509+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时43分 ~ 16时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时43分 ~ 17时14分]"
         },
         {
           "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
@@ -83,6 +83,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 08时56分]"
+        },
+        {
+          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
+          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时19分 ~ 17时14分]"
         },
         {
           "title": "美国总统特朗普与叙利亚领导人沙拉的会晤已开始。",
@@ -151,6 +163,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "特朗普考虑降低对瑞士关税 瑞士钟表股应声大涨",
+          "url": "https://flash.jin10.com/detail/20251111164448801800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "美国总统特朗普：期待再次与叙利亚总统会面并交谈。一个稳定繁荣的叙利亚对该地区所有国家都至关重要。",
           "url": "https://flash.jin10.com/detail/20251111083643534800",
           "source": "金十数据",
@@ -171,18 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "叙利亚政权领导人历史性访美，特朗普：他是非常强势的领导人",
-          "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 16时17分]"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
@@ -280,6 +291,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 17时14分]"
         },
         {
           "title": "美国总统特朗普：政府重新开放后，旅行情况将比以往好得多。",
@@ -727,8 +749,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时29分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[10时29分 ~ 17时14分]"
         },
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -967,8 +989,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "软银集团CFO：我们对OpenAI的投资非常巨大，因此我们必须利用现有资产为投资提供资金。",
+          "url": "https://flash.jin10.com/detail/20251111164357600800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
         {
           "title": "OpenAI挖走英特尔印度大将",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
@@ -1051,7 +1084,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价涨超2% 创本月最大涨幅",
@@ -1104,6 +1137,17 @@
           "time_info": "[00时16分 ~ 06时13分]"
         },
         {
+          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
+          "url": "https://www.cls.cn/detail/2197016",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 17时14分]"
+        },
+        {
           "title": "金十图示：2025年11月11日（周二）上海金早盘价为948.23元/克，较国际金价(947.89元/克)，高0.34元/克",
           "url": "https://flash.jin10.com/detail/20251111110107281800",
           "source": "金十数据",
@@ -1126,6 +1170,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时12分]"
+        },
+        {
+          "title": "最长政府停摆即将结束 金价创下近三周新高",
+          "url": "https://flash.jin10.com/detail/20251111163501589800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         }
       ]
     },
@@ -1152,8 +1207,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 17时14分]"
         },
         {
           "title": "伊朗否认密谋暗杀以色列驻墨西哥大使",
@@ -1243,6 +1298,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "近30年全球央行黄金持有首次超美债",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9130%E5%B9%B4%E5%85%A8%E7%90%83%E5%A4%AE%E8%A1%8C%E9%BB%84%E9%87%91%E6%8C%81%E6%9C%89%E9%A6%96%E6%AC%A1%E8%B6%85%E7%BE%8E%E5%80%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时18分 ~ 06时13分]"
+        },
+        {
+          "title": "梅茨勒银行：美债收益率面临政府重开、新债发行与关税合法性三重压力",
+          "url": "https://flash.jin10.com/detail/20251111163551460800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1286,24 +1370,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "近30年全球央行黄金持有首次超美债",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%9130%E5%B9%B4%E5%85%A8%E7%90%83%E5%A4%AE%E8%A1%8C%E9%BB%84%E9%87%91%E6%8C%81%E6%9C%89%E9%A6%96%E6%AC%A1%E8%B6%85%E7%BE%8E%E5%80%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时18分 ~ 06时13分]"
         }
       ]
     }
