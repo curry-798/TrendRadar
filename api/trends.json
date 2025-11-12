@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T20:24:26.305010+08:00",
-  "total_titles_processed": 1838,
+  "generated_at": "2025-11-12T21:28:57.273022+08:00",
+  "total_titles_processed": 1943,
   "failed_sources": [],
   "trends": [
     {
@@ -154,15 +154,19 @@
           "time_info": "[00时15分 ~ 08时56分]"
         },
         {
-          "title": "英国自由民主党领袖Davey：特朗普正试图摧毁BBC。",
-          "url": "https://wallstreetcn.com/livenews/3003428",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
           "ranks": [
-            1
+            9,
+            7,
+            8,
+            10,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 21时28分]"
         },
         {
           "title": "美最高法院：特朗普政府可继续暂扣食品援助金",
@@ -231,20 +235,6 @@
           "time_info": "08时56分"
         },
         {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 20时24分]"
-        },
-        {
           "title": "特朗普将于美国东部时间周三晚上7:30举行私人晚宴。",
           "url": "https://wallstreetcn.com/livenews/3003110",
           "source": "华尔街见闻-快讯",
@@ -255,6 +245,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时28分 ~ 11时41分]"
+        },
+        {
+          "title": "英国自由民主党领袖Davey：特朗普正试图摧毁BBC。",
+          "url": "https://wallstreetcn.com/livenews/3003428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 21时28分]"
         },
         {
           "title": "“美元微笑理论”提出者：美元在特朗普任期内将再跌超13%",
@@ -486,7 +488,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -618,7 +620,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -703,7 +705,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -717,6 +719,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时21分 ~ 15时17分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112211910657800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
@@ -841,6 +854,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "高盛预计未来十年美股表现落后其他市场 新兴市场将带来最丰厚回报",
+          "url": "https://wallstreetcn.com/livenews/3003429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     },
@@ -1133,11 +1157,12 @@
           "source": "微博",
           "ranks": [
             7,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 20时24分]"
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 21时28分]"
         },
         {
           "title": "金价",
@@ -1210,6 +1235,69 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[07时21分 ~ 21时28分]"
+        },
+        {
+          "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
+          "url": "https://flash.jin10.com/detail/20251112162921044800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3003444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "机构：10年期美债收益率近期或升至4.50%",
+          "url": "https://flash.jin10.com/detail/20251112153324698800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "美债期货上涨，美元走软，美国就业前景低迷",
+          "url": "https://wallstreetcn.com/livenews/3002855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
@@ -1262,58 +1350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时15分 ~ 18时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时21分 ~ 20时24分]"
-        },
-        {
-          "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
-          "url": "https://flash.jin10.com/detail/20251112162921044800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "机构：10年期美债收益率近期或升至4.50%",
-          "url": "https://flash.jin10.com/detail/20251112153324698800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "美债期货上涨，美元走软，美国就业前景低迷",
-          "url": "https://wallstreetcn.com/livenews/3002855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
         }
       ]
     },
@@ -1372,7 +1408,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗革命卫队情报部门称，美国-以色列间谍网络已被瓦解。",
@@ -1395,6 +1431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "欧佩克月报：二手资料显示，伊朗10月原油产量减少6.6万桶/日，至320.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251112210345876800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     }
