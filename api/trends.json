@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T17:14:55.032746+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2025-11-19T18:14:17.506817+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -36,11 +36,29 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时27分 ~ 17时14分]"
+          "appearance_count": 11,
+          "time_info": "[10时27分 ~ 18时14分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            13,
+            10,
+            8,
+            19,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 18时14分]"
         },
         {
           "title": "特朗普：已确定下一任美联储主席人选",
@@ -54,22 +72,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时55分 ~ 14时19分]"
-        },
-        {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            13,
-            10,
-            8,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 17时14分]"
         },
         {
           "title": "视频片段显示，埃隆·马斯克与众多嘉宾一道出席了特朗普与沙特王储的晚宴。 葡萄牙足球巨星罗纳尔多出席特朗普与沙特王储的晚宴。",
@@ -245,6 +247,17 @@
           "time_info": "[02时18分 ~ 04时15分]"
         },
         {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
           "url": "https://news.ifeng.com/c/8oPCfhjamik",
           "source": "凤凰网",
@@ -292,15 +305,15 @@
           "time_info": "[03时11分 ~ 04时15分]"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时14分]"
+          "time_info": "[17时14分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普结束在白宫的讲话。",
@@ -426,17 +439,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "美国总统特朗普：南非的行为极其恶劣。",
@@ -692,6 +694,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁",
+          "url": "https://www.toutiao.com/trending/7574328835857023012/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "美国总统特朗普：可以看到与沙特阿拉伯达成民用核协议。",
           "url": "https://flash.jin10.com/detail/20251119015618344800",
           "source": "金十数据",
@@ -753,7 +766,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -775,7 +788,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -905,6 +918,18 @@
           "time_info": "[00时16分 ~ 01时13分]"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时14分]"
+        },
+        {
           "title": "估值担忧打击美股科技股，标普500指数连续第四个交易日下跌，纳指收跌1.2%，多日来现卖出信号。美国积压数据陆续公布，市场等待有关美联储下一步行动的信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251119110356903800",
           "source": "金十数据",
@@ -926,17 +951,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
@@ -1069,6 +1083,19 @@
           "time_info": "[10时27分 ~ 17时14分]"
         },
         {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时55分 ~ 18时14分]"
+        },
+        {
           "title": "谷歌正式发布Gemini3",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
           "source": "bilibili 热搜",
@@ -1084,6 +1111,19 @@
           "time_info": "[02时18分 ~ 08时55分]"
         },
         {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 18时14分]"
+        },
+        {
           "title": "Gemini3为何是目前最强AI",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
           "source": "bilibili 热搜",
@@ -1095,23 +1135,12 @@
             6,
             7,
             19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时27分 ~ 17时14分]"
-        },
-        {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
+            20,
+            28
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[08时55分 ~ 17时14分]"
+          "time_info": "[10时27分 ~ 18时14分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -1139,18 +1168,6 @@
           "time_info": "[00时16分 ~ 07时11分]"
         },
         {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 17时14分]"
-        },
-        {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1974260216498500253",
           "source": "知乎",
@@ -1172,8 +1189,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 17时14分]"
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 18时14分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
@@ -1344,8 +1361,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时27分 ~ 15时13分]"
+          "appearance_count": 9,
+          "time_info": "[10时27分 ~ 18时14分]"
         },
         {
           "title": "OpenAI：所有受影响的服务现已完全恢复。",
