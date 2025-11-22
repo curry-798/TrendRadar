@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T18:12:39.100246+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2025-11-22T19:09:24.551760+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时22分 ~ 18时12分]"
+          "appearance_count": 13,
+          "time_info": "[10时22分 ~ 19时09分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -72,6 +72,32 @@
           "time_info": "[13时11分 ~ 18时12分]"
         },
         {
+          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
+          "url": "https://wallstreetcn.com/articles/3759912",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时10分 ~ 19时09分]"
+        },
+        {
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时16分 ~ 19时09分]"
+        },
+        {
           "title": "特朗普警告泽连斯基",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
           "source": "百度热搜",
@@ -84,20 +110,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时11分 ~ 17时12分]"
-        },
-        {
-          "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
-          "url": "https://wallstreetcn.com/articles/3759912",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时10分 ~ 18时12分]"
         },
         {
           "title": "美国总统特朗普：众议员格林辞职是国家的一大喜讯。",
@@ -115,17 +127,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时33分 ~ 17时12分]"
-        },
-        {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时16分 ~ 18时12分]"
         },
         {
           "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
@@ -191,17 +192,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时22分 ~ 14时16分]"
-        },
-        {
-          "title": "据白俄罗斯国家通讯社：白俄罗斯总统卢卡申科根据与美国总统特朗普达成的协议，赦免了31名乌克兰公民。",
-          "url": "https://flash.jin10.com/detail/20251122170834285800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰尊重美国总统特朗普的和平努力。",
@@ -305,6 +295,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时11分 ~ 08时53分]"
+        },
+        {
+          "title": "据白俄罗斯国家通讯社：白俄罗斯总统卢卡申科根据与美国总统特朗普达成的协议，赦免了31名乌克兰公民。",
+          "url": "https://flash.jin10.com/detail/20251122170834285800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时09分]"
         },
         {
           "title": "美法官叫停特朗普政府削减对多地的联邦拨款",
@@ -430,6 +432,18 @@
           "time_info": "[03时10分 ~ 04时14分]"
         },
         {
+          "title": "特朗普划红线 泽连斯基会接受吗",
+          "url": "https://www.toutiao.com/trending/7575475141363109395/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时09分]"
+        },
+        {
           "title": "美国总统特朗普：下周四是乌克兰接受美国支持的和平方案的合适期限。",
           "url": "https://flash.jin10.com/detail/20251122002520185800",
           "source": "金十数据",
@@ -439,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
+          "url": "https://flash.jin10.com/detail/20251122182640033800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "特朗普介入俄罗斯冻结资产利用争议 欧盟官员斥其“可耻”",
@@ -461,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
+          "url": "https://flash.jin10.com/detail/20251122180507453800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "美国总统特朗普：下周四是就乌克兰计划达成共识的合适期限。",
@@ -549,17 +585,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "特朗普划红线 泽连斯基会接受吗",
-          "url": "https://www.toutiao.com/trending/7575475141363109395/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         }
       ]
     },
@@ -600,8 +625,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时11分 ~ 18时12分]"
+          "appearance_count": 16,
+          "time_info": "[07时11分 ~ 19时09分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -714,6 +739,17 @@
           "time_info": "[14时16分 ~ 15时11分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时09分]"
+        },
+        {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
           "url": "https://wallstreetcn.com/livenews/3008802",
           "source": "华尔街见闻-快讯",
@@ -748,17 +784,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时11分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "金十图示：2025年11月21日（周五）美股热门股票行情一览（美股盘中）",
@@ -830,7 +855,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -843,8 +868,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时52分 ~ 18时12分]"
+          "appearance_count": 15,
+          "time_info": "[08时52分 ~ 19时09分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -854,11 +879,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时22分 ~ 18时12分]"
+          "appearance_count": 12,
+          "time_info": "[10时22分 ~ 19时09分]"
         },
         {
           "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
@@ -869,8 +895,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时11分 ~ 18时12分]"
+          "appearance_count": 10,
+          "time_info": "[13时11分 ~ 19时09分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -931,6 +957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "Gemini3适合用来编程吗",
+          "url": "https://www.douyin.com/hot/2314319",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         }
       ]
     },
