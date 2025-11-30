@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T15:12:18.546345+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2025-11-30T16:15:06.667689+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             14,
             22,
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 15时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 16时15分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -170,8 +171,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 15时12分]"
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 16时15分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -254,8 +255,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 15时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 16时15分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -299,8 +300,25 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 16时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时18分 ~ 15时12分]"
+          "time_info": "[16时14分 ~ 16时15分]"
         }
       ]
     },
