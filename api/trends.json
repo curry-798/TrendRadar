@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:53:12.954019+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2025-12-10T12:26:45.602702+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -41,11 +41,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 11时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 12时26分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -62,6 +63,17 @@
           "time_info": "[00时17分 ~ 08时58分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 12时26分]"
+        },
+        {
           "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
           "url": "https://www.cls.cn/detail/2224247",
           "source": "财联社热门",
@@ -73,17 +85,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 11时53分]"
         },
         {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
@@ -195,6 +196,17 @@
           "time_info": "[01时13分 ~ 03时30分]"
         },
         {
+          "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
+          "url": "https://flash.jin10.com/detail/20251210121528240800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "美国总统特朗普：我们现在的重点必须放在赢得中期选举上。",
           "url": "https://flash.jin10.com/detail/20251210083007668800",
           "source": "金十数据",
@@ -267,6 +279,18 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
+          "title": "美国企业界对特朗普执政表现评价不高",
+          "url": "https://www.toutiao.com/trending/7581666417361092614/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 12时26分]"
+        },
+        {
           "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
           "url": "https://news.ifeng.com/c/8oxUGggjWaR",
           "source": "凤凰网",
@@ -309,17 +333,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时13分]"
-        },
-        {
-          "title": "美国企业界对特朗普执政表现评价不高",
-          "url": "https://www.toutiao.com/trending/7581666417361092614/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
         },
         {
           "title": "泽连斯基回应特朗普：已准备好举行选举",
@@ -394,7 +407,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         },
@@ -516,8 +529,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 11时53分]"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 12时26分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团数据中心的服务商CyrusOne在（美股）市场开盘之前12个小时（美国中部时间04:19）开始出现故障。 CME数据中心时间线包括秘密递交报告。",
@@ -742,8 +755,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 11时53分]"
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 12时26分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -791,11 +804,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时58分 ~ 11时53分]"
+          "appearance_count": 5,
+          "time_info": "[08时58分 ~ 12时26分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -892,11 +906,12 @@
           "url": "https://flash.jin10.com/detail/20251210111107526800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时26分]"
         }
       ]
     }
