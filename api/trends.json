@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T19:12:27.597120+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2025-12-26T20:24:02.198162+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时52分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 20时24分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -79,6 +79,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 20时24分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
           "url": "https://flash.jin10.com/detail/20251226013420505800",
           "source": "金十数据",
@@ -120,17 +131,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时11分 ~ 04时14分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 19时12分]"
         },
         {
           "title": "特朗普人事强震引爆新争议",
@@ -270,8 +270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时52分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 20时24分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
