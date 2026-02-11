@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T19:38:07.067282+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2026-02-11T20:44:19.904579+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 19时38分]"
+          "appearance_count": 13,
+          "time_info": "[09时21分 ~ 20时44分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -73,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 20时44分]"
         },
         {
           "title": "外交部回应特朗普涉中加合作言论",
@@ -474,6 +474,28 @@
           "time_info": "05时35分"
         },
         {
+          "title": "墨西哥比索跌至日内低点，此前报道称特朗普考虑退出美墨加协定。",
+          "url": "https://wallstreetcn.com/livenews/3053734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "释新闻｜特朗普威胁阻止一座美加跨境大桥开通，发生了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582663",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
           "url": "https://flash.jin10.com/detail/20260211022551688800",
           "source": "金十数据",
@@ -617,6 +639,17 @@
           "time_info": "12时23分"
         },
         {
+          "title": "墨西哥比索跌至日内低点，消息称特朗普据悉考虑退出美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20260211200850711800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "约翰逊阻挠失败，美国众议院本周稍晚料推进针对特朗普关税的相关投票",
           "url": "https://wallstreetcn.com/livenews/3053410",
           "source": "华尔街见闻-快讯",
@@ -626,6 +659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "美国总统特朗普私下权衡是否退出他亲自谈判达成的美墨加贸易协定。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3053722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "美国白宫：特朗普将于周四签署废除气候规则的决议。",
@@ -686,7 +730,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -699,8 +743,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 19时38分]"
+          "appearance_count": 13,
+          "time_info": "[09时21分 ~ 20时44分]"
         },
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -738,6 +782,18 @@
           "time_info": "[00时58分 ~ 09时22分]"
         },
         {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时03分 ~ 20时44分]"
+        },
+        {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
           "url": "https://www.cls.cn/detail/2286520",
           "source": "财联社热门",
@@ -751,16 +807,16 @@
           "time_info": "[07时31分 ~ 14时03分]"
         },
         {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
           "ranks": [
-            7,
-            6
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时03分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 20时44分]"
         },
         {
           "title": "莫德纳宣布，美国食品药品管理局（FDA）拒绝审查其流感疫苗MRNA Flu申请。 FDA称，该公司临床试验（受试样本）不够大，也没有得到很好的控制。 莫德纳美股盘后跌9%。",
@@ -772,18 +828,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
-          "url": "https://www.zhihu.com/question/2004662806780338439",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 19时38分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
@@ -902,6 +946,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "Shopify第四季度营收为36.7亿美元，市场预期35.9亿美元。 第四季度月度经常性收入为2.05亿美元，同比增长15%，市场预期为2.012亿美元。 第四季度订阅收入为7.77亿美元，市场预期为7.661亿美元。 第四季度营业利润为6.31亿美元，市场预期为5.771亿美元。 Shopify已批准最高20亿美元的股票回购计划。 Shopify美股盘前涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3053732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "四张图告诉你：缘何AI巨头在美股市场上纷纷哑火？",
           "url": "https://www.cls.cn/detail/2286766",
           "source": "财联社热门",
@@ -926,8 +981,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 20时44分]"
         },
         {
           "title": "伊朗总统致歉",
@@ -937,8 +992,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 20时44分]"
         },
         {
           "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
@@ -999,6 +1054,18 @@
           "time_info": "[04时36分 ~ 05时35分]"
         },
         {
+          "title": "中方送伊朗歼-20模型传递何种信号",
+          "url": "https://www.toutiao.com/trending/7605520149600292406/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 20时44分]"
+        },
+        {
           "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
           "url": "https://wallstreetcn.com/livenews/3053534",
           "source": "华尔街见闻-快讯",
@@ -1009,18 +1076,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时48分 ~ 16时37分]"
-        },
-        {
-          "title": "中方送伊朗歼-20模型传递何种信号",
-          "url": "https://www.toutiao.com/trending/7605520149600292406/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 19时38分]"
         },
         {
           "title": "伊朗军事实力如何",
@@ -1139,11 +1194,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时03分 ~ 19时38分]"
+          "appearance_count": 9,
+          "time_info": "[14时03分 ~ 20时44分]"
         },
         {
           "title": "机构：收益率走低支撑金价反弹 市场静候非农报告出炉",
@@ -1316,6 +1372,46 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 20时44分]"
+        },
+        {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "DeepSeek更新新模型，支持最高1M百万Token上下文长度",
+          "url": "https://wallstreetcn.com/livenews/3053713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1379,23 +1475,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
-          "url": "https://www.zhihu.com/question/2004971546536585165",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
         }
       ]
     }
